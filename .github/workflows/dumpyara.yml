@@ -11,7 +11,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/bluejay-tp1a.221005.003-factory-79e6bc1a.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/raven-tp1a.221005.002-factory-d61dff29.zip
 
 jobs:
   build:
