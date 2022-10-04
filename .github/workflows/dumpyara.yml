@@ -11,7 +11,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/redfin-ota-tp1a.220905.004-c1e785e0.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/bluejay-tp1a.221005.003-factory-79e6bc1a.zip
 
 jobs:
   build:
