@@ -11,7 +11,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/raven-tp1a.221005.002-factory-d61dff29.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/raven-ota-tp1a.221105.002-0508bbb1.zip
 
 jobs:
   build:
